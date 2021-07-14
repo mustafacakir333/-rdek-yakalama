@@ -1,0 +1,17 @@
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\Window1.g.cs
+C:\Users\Mustafa\Desktop\WpfApp2\WpfApp2\obj\Debug\Window1.baml

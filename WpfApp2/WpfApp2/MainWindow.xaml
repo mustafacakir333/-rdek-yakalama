@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="ÖRDEK YAKALAMA" Height="450" Width="800" >
+    <Grid>
+        <Button Content="OYUNA BAŞLA" HorizontalAlignment="Left" Margin="282,143,0,0" VerticalAlignment="Top" Width="197" Click="Button_Click" RenderTransformOrigin="0.472,2.391" Height="68" FontSize="18" FontWeight="Bold" Background="#FFFDFF00"/>
+        <RadioButton Content="KOLAY" Name="kbuton" HorizontalAlignment="Left" Margin="159,272,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <RadioButton Content="ORTA" Name="obuton" HorizontalAlignment="Left" Margin="335,272,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <RadioButton Content="ZOR" Name="zbuton" HorizontalAlignment="Left" Margin="532,272,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+
+    </Grid>
+</Window>
